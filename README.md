@@ -1,0 +1,2 @@
+# P4_segmentation_clients_ecommerce_olist
+unsupervized method for segmentation
